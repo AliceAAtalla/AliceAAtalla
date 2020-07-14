@@ -40,5 +40,5 @@ I like to watch  :movie_camera: movies, :tv: series and  :notes:hear music
 [Linkedin][linkedin] **|**
 [Email][email]
 
-[linkedin]: https://www.linkedin.com/in/aliceatalla/
+[linkedin]: https://www.linkedin.com/in/aliceatalla/?locale=en_US
 [email]: aliceatalla36@gmail.com
