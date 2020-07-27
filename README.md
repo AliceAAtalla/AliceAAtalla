@@ -7,13 +7,13 @@ I've been a software development student at Trybe since March 2020.
 
 :large_orange_diamond: HTML
 
-:large_orange_diamond: CSS
+:large_orange_diamond: CSS - Styled Components
 
 :large_orange_diamond: Javascript
 
 :large_orange_diamond: Unit Tesing - Jest and React Testing Library
 
-:large_orange_diamond: React JS
+:large_orange_diamond: React JS - Redux and Hooks
 
 ## MY VALUES
 
