@@ -7,7 +7,7 @@ I've been a software development student at Trybe since March 2020.
 
 :large_orange_diamond: HTML
 
-:large_orange_diamond: CSS - Styled Components
+:large_orange_diamond: CSS && Styled Components
 
 :large_orange_diamond: Javascript
 
