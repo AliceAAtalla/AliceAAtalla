@@ -21,10 +21,7 @@ I've been a software development student at Trybe since March 2020.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliceaatalla&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Would you like to find me?
+-----
 
-[Linkedin][linkedin] **|**
-[Email][email]
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aliceatalla/?locale=en_US)
 
-[linkedin]: https://www.linkedin.com/in/aliceatalla/?locale=en_US
-[email]: aliceatalla36@gmail.com
