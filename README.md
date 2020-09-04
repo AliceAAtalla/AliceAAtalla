@@ -24,4 +24,4 @@ I've been a software development student at Trybe since March 2020.
 -----
 
 [![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aliceatalla/?locale=en_US)
-
+[![mailto](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:aliceatalla36@gmail.com)
