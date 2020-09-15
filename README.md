@@ -5,7 +5,7 @@ I've been a software development student at Trybe since March 2020.
 
 ### Technologies:
 
-:large_orange_diamond: HTML  |  CSS && Styled Components | Javascript | Unit Tesing - Jest and React Testing Library | React JS - Redux and Hooks
+:large_orange_diamond: HTML  |  CSS && Styled Components | Javascript | Unit Tesing - Jest and React Testing Library | React JS - Redux and Hooks | MySQL | MongoDB
 
 ### My Values
 
