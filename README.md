@@ -19,6 +19,8 @@ I've been a software development student at Trybe since March 2020.
 
 :chocolate_bar: Chocolate lover | :computer: My recent new love is programming! | :mag: Available for freelance projects/internship opportunities!
 
+[![Anurag's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceaatalla&layout=compact&title_color=268bd2&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliceaatalla&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
