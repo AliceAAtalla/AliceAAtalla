@@ -1,11 +1,11 @@
 ## Hello World! 👋
 
 **My name is Alice Arruda Atalla from Brazil!**
-I've been a software development student at Trybe since March 2020.
+Front End Developer for 2 years, with knowledge in Javascript and Typescript, using the ReactJs and NextJS frameworks.
 
 ### Technologies:
 
-:large_orange_diamond: HTML  |  CSS && Styled Components | Javascript | Unit Tesing - Jest and React Testing Library | React JS - Redux and Hooks | MySQL | MongoDB | NodeJS | Express.js
+:large_orange_diamond: HTML  |  CSS && Styled Components | Javascript | Unit Tesing - Jest and React Testing Library | NextJs | React JS - Redux and Hooks | ReactQuery | MySQL | MongoDB | NodeJS | Express.js
 
 ### My Values
 
