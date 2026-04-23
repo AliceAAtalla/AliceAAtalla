@@ -1,41 +1,28 @@
-## Hello World! 👋
+## 🚀 Software Engineer | Frontend Specialist | Crafting scalable React architectures & Design Systems | Based in Japan 🇯🇵
 
-**My name is Alice Arruda Atalla from Brazil!**
-Front End Developer for 2 years, with knowledge in Javascript and Typescript, using the ReactJs and NextJS frameworks.
+I am a Software Engineer with over **5+ years of experience** building scalable, **high-performance web applications**. My expertise lies in React, TypeScript, and Design Systems, with a strong track record of leading **complex migrations and optimizing mission-critical internal platforms**.
+
+I specialize in bridging the gap between UX design and frontend architecture to drive business impact. Whether it’s reducing deployment times by 50% through better UX flows or architecting cross-framework component libraries, I focus on building tools that are maintainable, accessible, and performant.
 
 ### Technologies:
 
-:large_orange_diamond: HTML  |  CSS && Styled Components | Javascript | Unit Tesing - Jest and React Testing Library | NextJs | React JS - Redux and Hooks | ReactQuery | MySQL | MongoDB | NodeJS | Express.js
+:large_orange_diamond: **Frontend Development:** React.js, Next.js, TypeScript, JavaScript (ES6+), StencilJS, HTML5, CSS3, SASS/SCSS, Tailwind CSS, Styled Components, Responsive Design, Mobile-First, Angular, Context API, Redux.
 
-### My Values
+:large_orange_diamond: **Design Systems & Component Architecture:** Design Systems, Component Library
+Development, Cross-Framework Components, npm Package Publishing, Component Documentation, Reusable UI Architecture, Figma, UX-Focused Development.
 
-* Being proactive and demonstrating a lively approach supports my efforts to make things happening.
-* Seeking new opportunities for development and growth keeps me consistently challenged.
-* Empathy and resilience are very important values to me.
+:large_orange_diamond: **Testing & Quality:** Jest, React Testing Library, Unit Testing, E2E Testing, Code Review, JUnit.
 
-### About Me
+:large_orange_diamond: **Performance & Web Standards:** Core Web Vitals (LCP, INP, CLS), Web Performance
+Optimization, Accessibility (WCAG), Internationalization (i18n), SEO-friendly Architecture.
 
-:heart: I love solving problems | :rocket: I love teach and learn :books: | I like to watch :movie_camera: movies, :tv: series and :notes: hear music
+:large_orange_diamond: **Backend & Full Stack:** Java, Spring Boot, RESTful APIs, Node.js, Express, JSON, SQL, MongoDB.
 
-:chocolate_bar: Chocolate lover | :computer: My recent new love is programming! | :mag: Available for freelance projects/internship opportunities!
+:large_orange_diamond: **DevOps & Tooling:** Git/GitHub, CI/CD (GitHub Actions), Docker, AWS, Kubernetes, AI-Assisted Development (Cursor, Copilot).
 
------
+:large_orange_diamond: **Engineering Practices & Collaboration:** Frontend Architecture, Legacy Migration, Agile/Scrum, Cross-Functional Collaboration, Technical Documentation, Mentoring/Developer Support, Task
+Planning & Refinement, Jira, OKRs.
 
-<div align="center">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceaatalla&layout=compact&title_color=268bd2&theme=nord" />
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliceaatalla&count_private=true&show_icons=true&theme=nord" />
-</div>
+:large_orange_diamond: **Languages:** Portuguese (Native), English (Full Professional), Japanese (N4).
 
------
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aliceaatalla/?locale=en_US">
-    <img height="50em" align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-  </a>
-  <a href="mailto:aliceatalla36@gmail.com">
-    <img height="50em" align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
-  </a>
-  <a href="https://gitlab.com/AliceAAtalla">
-    <img height="50em" align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" />
-  </a>
-</div>
+#### Based in Japan and working on global-scale projects.
