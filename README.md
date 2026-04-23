@@ -2,7 +2,7 @@
 
 I am a Software Engineer with over **5+ years of experience** building scalable, **high-performance web applications**. My expertise lies in React, TypeScript, and Design Systems, with a strong track record of leading **complex migrations and optimizing mission-critical internal platforms**.
 
-I specialize in bridging the gap between UX design and frontend architecture to drive business impact. Whether it’s reducing deployment times by 50% through better UX flows or architecting cross-framework component libraries, I focus on building tools that are maintainable, accessible, and performant.
+I specialize in bridging the gap between UX design and frontend architecture to drive business impact. Whether it’s **reducing deployment times by 50%** through better UX flows or architecting cross-framework component libraries, **I focus on building tools that are maintainable, accessible, and performant.**
 
 ### Technologies:
 
