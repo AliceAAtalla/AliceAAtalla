@@ -23,6 +23,6 @@ Optimization, Accessibility (WCAG), Internationalization (i18n), SEO-friendly Ar
 :large_orange_diamond: **Engineering Practices & Collaboration:** Frontend Architecture, Legacy Migration, Agile/Scrum, Cross-Functional Collaboration, Technical Documentation, Mentoring/Developer Support, Task
 Planning & Refinement, Jira, OKRs.
 
-:large_orange_diamond: **Languages:** Portuguese (Native), English (Full Professional), Japanese (N4).
+🗺️ **Languages:** Portuguese (Native), English (Full Professional), Japanese (N4).
 
-#### Based in Japan and working on global-scale projects.
+#### 📍 Based in Japan and working on global-scale projects.
