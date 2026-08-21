@@ -1,4 +1,4 @@
-## 🚀 Software Engineer | Frontend Specialist | Crafting scalable React architectures & Design Systems | Based in Japan 🇯🇵
+## 🚀 Software Engineer | Frontend Specialist | Crafting scalable React architectures & Design Systems
 
 I am a Software Engineer with over **5+ years of experience** building scalable, **high-performance web applications**. My expertise lies in React, TypeScript, and Design Systems, with a strong track record of leading **complex migrations and optimizing mission-critical internal platforms**.
 
@@ -24,5 +24,3 @@ Optimization, Accessibility (WCAG), Internationalization (i18n), SEO-friendly Ar
 Planning & Refinement, Jira, OKRs.
 
 🗺️ **Languages:** Portuguese (Native), English (Full Professional), Japanese (N4).
-
-#### 📍 Based in Japan and working on global-scale projects.
